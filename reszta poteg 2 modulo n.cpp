@@ -36,3 +36,7 @@ int main()
   cout << w << endl;
   return 0;
 } 
+
+
+
+//zmiana

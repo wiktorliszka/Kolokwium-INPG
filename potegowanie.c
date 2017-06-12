@@ -17,3 +17,6 @@ int main()
     else printf ("%f do potegi %i wynosi %f", x, n, potega(x, n));
     return 0;
 }
+
+
+//zmiana

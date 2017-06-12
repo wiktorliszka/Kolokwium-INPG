@@ -33,3 +33,7 @@ int main()
   cout << ls << endl << endl;
   return 0;
 } 
+
+
+
+//zmiana
